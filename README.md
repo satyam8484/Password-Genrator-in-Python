@@ -11,10 +11,10 @@ string
 
 # Run :
 
-## 1) for GUI App :
+### 1) for GUI App :
 python Strong_pwd_Genrator.py
 
-## 2) For simple programm :
+### 2) For simple programm :
 python password_genrator.py
 
 

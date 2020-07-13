@@ -10,6 +10,7 @@ random
 string
 
 # Run :
+Here i have Given two Programms
 
 ### 1) for GUI App :
 python Strong_pwd_Genrator.py
